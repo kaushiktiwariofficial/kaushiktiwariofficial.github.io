@@ -9,7 +9,7 @@
 
 main:
   - title: "Resources"
-    url: /files/
+    url: [Notes](files/)
 
   # title: "Talks"
    # url: /talks/    
